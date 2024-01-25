@@ -3,8 +3,11 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/costilladante"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Creative+Front-end+developer" alt="Typing SVG" /></a>
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F749&random=false&width=435&lines=%3COpen+to+work!%3E" alt="Typing SVG" /></a>
-<img align="right" width="480" height="384" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk1aXI3bjgxOXd5ajBxc2lsa3Y3b2YxNWcycnp6dGZkd3lmZHh1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GKSIGooAVxuA8WK931/source.gif">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F749&random=false&width=435&lines=%F0%9F%9A%80+%3C+Open+to+work!+%3E+" alt="Typing SVG" /></a>
+<a href="https://fox-portal.vercel.app">
+<img href="https://git.io/typing-svg" alt="Fox Portal project GIF" align="right" width="480" height="384" src="/foxportal.gif?raw=true">
+Check out my last project!
+</a>
 
 - 💻 Working remotely from Salta, Argentina! 🇦🇷
 - 🔥 Currently interested in 3D web rendering.
