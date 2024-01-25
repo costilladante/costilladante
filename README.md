@@ -5,17 +5,17 @@
 </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F749&random=false&width=435&lines=%F0%9F%9A%80+%3C+Open+to+work!+%3E+" alt="Typing SVG" /></a>
 <a href="https://fox-portal.vercel.app">
-<img href="https://git.io/typing-svg" alt="Fox Portal project GIF" align="right" width="480" height="384" src="/foxportal.gif?raw=true">
+<img href="https://git.io/typing-svg" alt="Fox Portal project GIF" align="right" width="400" src="/foxportal.gif?raw=true">
 Check out my last project!
 </a>
 
-- 💻 Working remotely from Salta, Argentina! 🇦🇷
-- 🔥 Currently interested in 3D web rendering.
-- 🤝Contact me: <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/costilladante/)
+- 💻 I'm currently working remotely from Salta, Argentina! 🇦🇷
+- 🔥 Interested in 3D web rendering. Loving Astro and Tailwind.
+- 🤝 **Contact me**: <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/costilladante/)
 
 | Currently Learning                                                                                                   |     State      |
 | :------------------------------------------------------------------------------------------------------------------- | :------------: |
-| ![Static Badge](https://img.shields.io/badge/Astro-DDD?style=for-the-badge&logo=astro&labelColor=333)                | In progress 🔥 |
+| ![Static Badge](https://img.shields.io/badge/Astro-DDD?style=for-the-badge&logo=astro&labelColor=333)                | In progress |
 | ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-DDD?style=for-the-badge&logo=tailwindcss&labelColor=333) |  In progress   |
 | ![Static Badge](https://img.shields.io/badge/Next.JS-DDD?style=for-the-badge&logo=next.js&labelColor=333)            |    Incoming    |
 | ![Static Badge](https://img.shields.io/badge/Zustand-DDD?style=for-the-badge&label=%F0%9F%90%BB&labelColor=333)      |    Incoming    |
@@ -33,9 +33,9 @@ As a _Creative Developer_, I'm always interested in libraries and tools that all
 <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-DDD?style=for-the-badge&logo=javascript&labelColor=333">
 <img alt="Static Badge" src="https://img.shields.io/badge/React-DDD?style=for-the-badge&logo=react&labelColor=333">
 <img alt="Static Badge" src="https://img.shields.io/badge/Three.JS-DDD?style=for-the-badge&logo=three.js&labelColor=333">
+<img alt="Static Badge" src="https://img.shields.io/badge/Astro-DDD?style=for-the-badge&logo=astro&labelColor=333">
 <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS-DDD?style=for-the-badge&logo=tailwindcss&labelColor=333">
 <img alt="Static Badge" src="https://img.shields.io/badge/GraphQL-DDD?style=for-the-badge&logo=graphql&logoColor=E10098&labelColor=333">
-<img alt="Static Badge" src="https://img.shields.io/badge/Astro-DDD?style=for-the-badge&logo=astro&labelColor=333">
 <img alt="Static Badge" src="https://img.shields.io/badge/Jest-DDD?style=for-the-badge&logo=jest&logoColor=%23C21325&labelColor=333">
 <p>
 
@@ -44,7 +44,6 @@ As a _Creative Developer_, I'm always interested in libraries and tools that all
 #### I also code with
 
 <p align='center'>
-	<img alt="Static Badge" src="https://img.shields.io/badge/Typescript-DDD?logo=typescript&labelColor=333">
 	<img alt="Static Badge" src="https://img.shields.io/badge/Typescript-DDD?logo=typescript&labelColor=333">
 	<img alt="Static Badge" src="https://img.shields.io/badge/HTML5-DDD?logo=html5&labelColor=333">
 	<img alt="Static Badge" src="https://img.shields.io/badge/CSS3-DDD?logo=css3&logoColor=1572B6&labelColor=333">
